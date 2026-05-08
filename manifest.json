@@ -1,7 +1,7 @@
 {
 	"id": "heading-number",
 	"name": "Heading Number",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"minAppVersion": "0.15.0",
 	"description": "Automatically add multi-level serial numbers to your markdown headings with customizable styles.",
 	"author": "cloudpmy",
