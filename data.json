@@ -1,0 +1,437 @@
+{
+  "startLevel": 1,
+  "endLevel": 6,
+  "separator": ".",
+  "spaceAfterSerial": true,
+  "levelStyles": {
+    "1": "arabic",
+    "2": "arabic",
+    "3": "arabic",
+    "4": "arabic",
+    "5": "arabic",
+    "6": "arabic"
+  },
+  "childLevelStyles": {
+    "1": "arabic",
+    "2": "arabic",
+    "3": "arabic",
+    "4": "arabic",
+    "5": "arabic",
+    "6": "arabic"
+  },
+  "levelPrefixes": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ""
+  },
+  "levelSuffixes": {
+    "1": "",
+    "2": "",
+    "3": "",
+    "4": "",
+    "5": "",
+    "6": ""
+  },
+  "levelStartNumbers": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "4": 1,
+    "5": 1,
+    "6": 1
+  },
+  "continuousNumbering": {
+    "1": false,
+    "2": false,
+    "3": false,
+    "4": false,
+    "5": false,
+    "6": false
+  },
+  "configTemplates": [
+    {
+      "name": "公文",
+      "startLevel": 1,
+      "endLevel": 3,
+      "separator": ".",
+      "spaceAfterSerial": false,
+      "levelStyles": {
+        "1": "chinese",
+        "2": "chinese",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "childLevelStyles": {
+        "1": "none",
+        "2": "none",
+        "3": "none",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "levelPrefixes": {
+        "1": "",
+        "2": "（",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelSuffixes": {
+        "1": "、",
+        "2": "）",
+        "3": "、",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelStartNumbers": {},
+      "continuousNumbering": {
+        "1": false,
+        "2": true,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+      }
+    },
+    {
+      "name": "数字编号",
+      "startLevel": 1,
+      "endLevel": 6,
+      "separator": ".",
+      "spaceAfterSerial": true,
+      "levelStyles": {
+        "1": "arabic",
+        "2": "arabic",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "childLevelStyles": {
+        "1": "arabic",
+        "2": "arabic",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "levelPrefixes": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelSuffixes": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelStartNumbers": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "continuousNumbering": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+      }
+    },
+    {
+      "name": "书籍",
+      "startLevel": 1,
+      "endLevel": 3,
+      "separator": ".",
+      "spaceAfterSerial": true,
+      "levelStyles": {
+        "1": "chinese",
+        "2": "arabic",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "childLevelStyles": {
+        "1": "none",
+        "2": "arabic",
+        "3": "none",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "levelPrefixes": {
+        "1": "第",
+        "2": "第",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelSuffixes": {
+        "1": "部分",
+        "2": "章",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelStartNumbers": {},
+      "continuousNumbering": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+      }
+    },
+    {
+      "name": "中数",
+      "startLevel": 1,
+      "endLevel": 6,
+      "separator": ".",
+      "levelStyles": {
+        "1": "chinese",
+        "2": "arabic",
+        "3": "none",
+        "4": "none",
+        "5": "none",
+        "6": "none"
+      },
+      "childLevelStyles": {
+        "1": "none",
+        "2": "none",
+        "3": "none",
+        "4": "none",
+        "5": "none",
+        "6": "none"
+      },
+      "levelPrefixes": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelSuffixes": {
+        "1": "、",
+        "2": "、",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelStartNumbers": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "continuousNumbering": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+      }
+    },
+    {
+      "name": "RD",
+      "startLevel": 1,
+      "endLevel": 3,
+      "separator": ".",
+      "spaceAfterSerial": false,
+      "levelStyles": {
+        "1": "chinese",
+        "2": "chinese",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "childLevelStyles": {
+        "1": "none",
+        "2": "none",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "levelPrefixes": {
+        "1": "",
+        "2": "（",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelSuffixes": {
+        "1": "、",
+        "2": "）",
+        "3": "、",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelStartNumbers": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "continuousNumbering": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+      }
+    },
+    {
+      "name": "H2-数字编号",
+      "startLevel": 2,
+      "endLevel": 6,
+      "separator": ".",
+      "spaceAfterSerial": true,
+      "levelStyles": {
+        "1": "arabic",
+        "2": "arabic",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "childLevelStyles": {
+        "1": "arabic",
+        "2": "arabic",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "levelPrefixes": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelSuffixes": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelStartNumbers": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "continuousNumbering": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+      }
+    },
+    {
+      "name": "H2-中-数字编号",
+      "startLevel": 2,
+      "endLevel": 6,
+      "separator": ".",
+      "spaceAfterSerial": true,
+      "levelStyles": {
+        "1": "arabic",
+        "2": "arabic",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "childLevelStyles": {
+        "1": "arabic",
+        "2": "arabic",
+        "3": "arabic",
+        "4": "arabic",
+        "5": "arabic",
+        "6": "arabic"
+      },
+      "levelPrefixes": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "4": "",
+        "5": "",
+        "6": ""
+      },
+      "levelSuffixes": {
+        "1": "",
+        "2": ".",
+        "3": ".",
+        "4": ".",
+        "5": ".",
+        "6": "."
+      },
+      "levelStartNumbers": {
+        "1": 1,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "continuousNumbering": {
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false,
+        "5": false,
+        "6": false
+      }
+    }
+  ],
+  "activeTemplateName": "数字编号",
+  "language": "zh",
+  "startNumber": 1,
+  "activedHeadlines": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}
